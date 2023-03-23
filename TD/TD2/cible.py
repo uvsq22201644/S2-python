@@ -14,7 +14,7 @@ couleurs =['blue','green','black','yellow','magenta','red']
 
 root =Tk()
 
-canvas= Canvas(root,width=WIDTH,height=HEIGHT,bg=BG_COLOR)
+canvas = Canvas(root,width=WIDTH,height=HEIGHT,bg=BG_COLOR)
 canvas.pack()
 
 for i in range(CERCLES):
