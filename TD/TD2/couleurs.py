@@ -1,6 +1,7 @@
 import tkinter as tk
 from random import randint
 
+
 def get_color(r,g,b):
     """ Retourne une couleur à partir de ses composantes r, g, b entre 0 et 255"""
     return '#{:02x}{:02x}{:02x}'.format(r, g, b)
