@@ -1,6 +1,7 @@
 import tkinter as tk
 from random import randint
 from numpy import sqrt
+
 color=''
 
 def couleur():
