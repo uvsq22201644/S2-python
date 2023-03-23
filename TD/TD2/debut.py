@@ -2,6 +2,7 @@ import tkinter as tk
 
 CANVAS_WIDTH, CANVAS_HEIGHT = 600, 400
 
+
 if __name__=='__main__':
     root = tk.Tk()
 
